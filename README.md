@@ -1,1 +1,2 @@
-# Chatbot-using-Ollama-LLM
+# Chatbot-using-Ollama-LLM and Streamlit
+This project features an interactive AI-powered chatbot built using Ollama LLM and developed with Python. The chatbot leverages natural language processing (NLP) to understand and respond to user queries effectively. It is deployed on a web interface using Streamlit, ensuring a seamless and user-friendly experience. The project focuses on enhancing conversational capabilities, automating responses, and optimizing interactions. Through this implementation, I gained hands-on experience in LLM integration, web deployment, and NLP-based chatbot development, improving my skills in model optimization, problem-solving, and user experience design.
